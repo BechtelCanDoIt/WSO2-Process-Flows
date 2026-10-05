@@ -14,7 +14,7 @@ WSO2 Agent Manager registers external runtimes as federated sources, so agents k
 - Centralized Observability (OpenTelemetry)
 
 ## Architecture
-![Flow Diagram](images/wso2_flow_animated.gif)
+![Flow Diagram](images/wso2_flow_static.png)
 
 ---
 WSO2 Agent Manager · wso2.com/agent-platform/agent-manager ·  by, Scott Bechtel
