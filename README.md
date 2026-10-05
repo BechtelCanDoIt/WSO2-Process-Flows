@@ -4,10 +4,11 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 > These articles/patterns are AI generated. Double check validity in case I haven't yet.
 
-**67 flows so far.** Each link opens the article with its diagram.
+**68 flows so far.** Each link opens the article with its diagram.
 
 ## Agent Manager
 
+- [One Control Plane for Multi-Runtime Agents](2026-10-05%20Agent%20Manager%20One%20Control%20Plane%20for%20Multi-Runtime%20Agents/README.md) (2026-10-05)
 - [Zero-Trust Runtime Lifecycle Sandbox to Production](2026-09-28%20Agent%20Manager%20Zero-Trust%20Runtime%20Lifecycle%20Sandbox%20to%20Production/README.md) (2026-09-28)
 - [OWASP Agentic Top 10 Risk Mitigation Flow](2026-09-21%20Agent%20Manager%20OWASP%20Agentic%20Top%2010%20Risk%20Mitigation%20Flow/README.md) (2026-09-21)
 - [Delegated Credential Blast-Radius Containment Flow](2026-09-14%20Agent%20Manager%20Delegated%20Credential%20Blast-Radius%20Containment%20Flow/README.md) (2026-09-14)
