@@ -24,6 +24,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## AI Gateway
 
+- [Multi-Gateway Unified AI Traffic Control Flow](2026-10-06%20AI%20Gateway%20Multi-Gateway%20Unified%20AI%20Traffic%20Control%20Flow/README.md) (2026-10-06)
 - [Token-Level Cost and Budget Governance Flow](2026-09-29%20AI%20Gateway%20Token-Level%20Cost%20and%20Budget%20Governance%20Flow/README.md) (2026-09-29)
 - [External Content Safety Guardrails Flow](2026-09-22%20AI%20Gateway%20External%20Content%20Safety%20Guardrails%20Flow/README.md) (2026-09-22)
 - [External MCP Server Proxying and Governance Flow](2026-09-15%20AI%20Gateway%20External%20MCP%20Server%20Proxying%20and%20Governance%20Flow/README.md) (2026-09-15)
