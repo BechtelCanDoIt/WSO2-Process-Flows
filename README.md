@@ -84,6 +84,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## Choreo
 
+- [GitOps Promotion Across Clouds](2026-10-09%20Choreo%20GitOps%20Promotion%20Across%20Clouds/README.md) (2026-10-09)
 - [Zero-Config MCP Server Deployment for AI Agent Tooling](2026-09-05%20Choreo%20Zero-Config%20MCP%20Server%20Deployment%20for%20AI%20Agent%20Tooling/README.md) (2026-09-05)
 - [AI-Powered FinOps and Scale-to-Zero Cost Governance Flow](2026-07-10%20Choreo%20AI-Powered%20FinOps%20and%20Scale-to-Zero%20Cost%20Governance%20Flow/README.md) (2026-07-10)
 
