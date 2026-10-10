@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1165" viewBox="0 0 1800 1165" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="ar" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M1,1 L10,6 L1,11 Z" fill="#FF7A1A"/></marker><radialGradient id="g" cx="50%" cy="0%" r="80%"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0.14"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs>
+<rect width="1800" height="1165" fill="#000"/><rect width="1800" height="1165" fill="url(#g)"/>
+<text x="80" y="95" font-size="22" font-weight="700" letter-spacing="5" fill="#FF7A1A">WSO2 API PLATFORM FOR AZURE</text>
+<text x="80" y="160" font-size="52" font-weight="700" fill="#FFFFFF">Shadow API Discovery and Governance</text>
+<text x="80" y="204" font-size="24" fill="#A8A8B0">Find unmanaged Azure APIs and bring them under one policy set.</text>
+<rect x="80" y="226" width="120" height="4" rx="2" fill="#FF7A1A"/>
+<text x="80" y="292" font-size="16" font-weight="700" letter-spacing="3" fill="#A8A8B0">AZURE SOURCES</text>
+<rect x="80" y="312" width="240" height="64" rx="12" fill="#1C1C1F" stroke="#3A3A40" stroke-width="1.5"/>
+<text x="200.0" y="352" font-size="21" font-weight="600" fill="#FFFFFF" text-anchor="middle">Azure APIM</text>
+<rect x="350" y="312" width="240" height="64" rx="12" fill="#1C1C1F" stroke="#3A3A40" stroke-width="1.5"/>
+<text x="470.0" y="352" font-size="21" font-weight="600" fill="#FFFFFF" text-anchor="middle">Dev Teams</text>
+<rect x="620" y="312" width="240" height="64" rx="12" fill="#1C1C1F" stroke="#3A3A40" stroke-width="1.5"/>
+<text x="740.0" y="352" font-size="21" font-weight="600" fill="#FFFFFF" text-anchor="middle">CI Pipelines</text>
+<path d="M876,344 L1010,344" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<rect x="1030" y="302" width="690" height="84" rx="14" fill="#FF7A1A"/>
+<text x="1375" y="337" font-size="16" font-weight="700" letter-spacing="3" fill="#000" text-anchor="middle">CONTROL PLANE</text>
+<text x="1375" y="370" font-size="26" font-weight="700" fill="#000" text-anchor="middle">WSO2 API Platform</text>
+<path d="M450.0,597.5 L499.3333333333333,597.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<path d="M873.3333333333333,597.5 L922.6666666666666,597.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<path d="M1296.6666666666665,597.5 L1346.0,597.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<path d="M1535.0,725 L1535.0,762.5 L265.0,762.5 L265.0,800" fill="none" stroke="#FF7A1A" stroke-width="3" marker-end="url(#ar)"/>
+<path d="M450.0,927.5 L499.3333333333333,927.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<path d="M873.3333333333333,927.5 L922.6666666666666,927.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<path d="M1296.6666666666665,927.5 L1346.0,927.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<rect x="80.0" y="470" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="80.0" y="492" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="108.0" y="528" font-size="40" font-weight="800" fill="#FF7A1A">01</text>
+<rect x="341.5" y="500" width="80.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="381.75" y="521" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">INPUT</text>
+<text x="108.0" y="588" font-size="29" font-weight="700" fill="#FFFFFF">Connect Azure APIM</text>
+<text x="108.0" y="628" font-size="21" fill="#D4D4DA">Link existing Azure API</text>
+<text x="108.0" y="657" font-size="21" fill="#D4D4DA">Management instances without</text>
+<text x="108.0" y="686" font-size="21" fill="#D4D4DA">moving any gateways.</text>
+<rect x="503.3333333333333" y="470" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="503.3333333333333" y="492" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="531.3333333333333" y="528" font-size="40" font-weight="800" fill="#FF7A1A">02</text>
+<rect x="722.8333333333333" y="500" width="122.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="784.0833333333333" y="521" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">INTEGRATE</text>
+<text x="531.3333333333333" y="588" font-size="29" font-weight="700" fill="#FFFFFF">Discover APIs</text>
+<text x="531.3333333333333" y="628" font-size="21" fill="#D4D4DA">Scan the connected gateways and</text>
+<text x="531.3333333333333" y="657" font-size="21" fill="#D4D4DA">list every API already running.</text>
+<rect x="926.6666666666666" y="470" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="926.6666666666666" y="492" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="954.6666666666666" y="528" font-size="40" font-weight="800" fill="#FF7A1A">03</text>
+<rect x="1167.1666666666665" y="500" width="101.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="1217.9166666666665" y="521" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">OBSERVE</text>
+<text x="954.6666666666666" y="588" font-size="29" font-weight="700" fill="#FFFFFF">Flag Shadow APIs</text>
+<text x="954.6666666666666" y="628" font-size="21" fill="#D4D4DA">Mark APIs that have no owner,</text>
+<text x="954.6666666666666" y="657" font-size="21" fill="#D4D4DA">spec or review on record.</text>
+<rect x="1350.0" y="470" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="1350.0" y="492" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="1378.0" y="528" font-size="40" font-weight="800" fill="#FF7A1A">04</text>
+<rect x="1580.0" y="500" width="112.0" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="1636.0" y="521" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">SECURITY</text>
+<text x="1378.0" y="588" font-size="29" font-weight="700" fill="#FFFFFF">Score Policy Gaps</text>
+<text x="1378.0" y="628" font-size="21" fill="#D4D4DA">Compare each API against the</text>
+<text x="1378.0" y="657" font-size="21" fill="#D4D4DA">central security and rate-limit</text>
+<text x="1378.0" y="686" font-size="21" fill="#D4D4DA">standards.</text>
+<rect x="80.0" y="800" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="80.0" y="822" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="108.0" y="858" font-size="40" font-weight="800" fill="#FF7A1A">05</text>
+<rect x="278.5" y="830" width="143.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="350.25" y="851" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">ORCHESTRATE</text>
+<text x="108.0" y="918" font-size="29" font-weight="700" fill="#FFFFFF">Assign Owners</text>
+<text x="108.0" y="958" font-size="21" fill="#D4D4DA">Route each unmanaged API to the</text>
+<text x="108.0" y="987" font-size="21" fill="#D4D4DA">team that should answer for it.</text>
+<rect x="503.3333333333333" y="800" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="503.3333333333333" y="822" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="531.3333333333333" y="858" font-size="40" font-weight="800" fill="#FF7A1A">06</text>
+<rect x="743.8333333333333" y="830" width="101.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="794.5833333333333" y="851" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">GATEWAY</text>
+<text x="531.3333333333333" y="918" font-size="29" font-weight="700" fill="#FFFFFF">Apply Governance</text>
+<text x="531.3333333333333" y="958" font-size="21" fill="#D4D4DA">Push approved policies back to</text>
+<text x="531.3333333333333" y="987" font-size="21" fill="#D4D4DA">the Azure gateways from one</text>
+<text x="531.3333333333333" y="1016" font-size="21" fill="#D4D4DA">place.</text>
+<rect x="926.6666666666666" y="800" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="926.6666666666666" y="822" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="954.6666666666666" y="858" font-size="40" font-weight="800" fill="#FF7A1A">07</text>
+<rect x="1177.6666666666665" y="830" width="91.0" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="1223.1666666666665" y="851" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">OUTPUT</text>
+<text x="954.6666666666666" y="918" font-size="29" font-weight="700" fill="#FFFFFF">Publish to Portal</text>
+<text x="954.6666666666666" y="958" font-size="21" fill="#D4D4DA">List vetted APIs in a single</text>
+<text x="954.6666666666666" y="987" font-size="21" fill="#D4D4DA">catalog developers can search.</text>
+<rect x="1350.0" y="800" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="1350.0" y="822" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="1378.0" y="858" font-size="40" font-weight="800" fill="#FF7A1A">08</text>
+<rect x="1590.5" y="830" width="101.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="1641.25" y="851" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">OBSERVE</text>
+<text x="1378.0" y="918" font-size="29" font-weight="700" fill="#FFFFFF">Track Drift</text>
+<text x="1378.0" y="958" font-size="21" fill="#D4D4DA">Alert when a gateway change</text>
+<text x="1378.0" y="987" font-size="21" fill="#D4D4DA">breaks the approved policy</text>
+<text x="1378.0" y="1016" font-size="21" fill="#D4D4DA">baseline.</text>
+<line x1="80" y1="1091" x2="1720" y2="1091" stroke="#2A2A2E"/>
+<text x="80" y="1127" font-size="17" fill="#A8A8B0">Federated Gateway Management  ·  Policy as Code  ·  Continuous Compliance</text>
+<text x="1720" y="1127" font-size="17" fill="#A8A8B0" text-anchor="end">wso2.com/api-platform/azure  ·  Scott Bechtel</text>
+</svg>
