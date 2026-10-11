@@ -90,6 +90,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## Ballerina
 
+- [Query-Driven Multi-Format Data Transformation](2026-10-11%20Ballerina%20Query-Driven%20Multi-Format%20Data%20Transformation/README.md) (2026-10-11)
 - [Type-Safe LLM Integration via Natural Expressions](2026-09-11%20Ballerina%20Type-Safe%20LLM%20Integration%20via%20Natural%20Expressions/README.md) (2026-09-11)
 - [Concurrent Network Resilience with Strands and Circuit Breakers](2026-07-17%20Ballerina%20Concurrent%20Network%20Resilience%20with%20Strands%20and%20Circuit%20Breakers/README.md) (2026-07-17)
 
