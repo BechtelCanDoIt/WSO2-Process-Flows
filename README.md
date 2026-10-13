@@ -25,6 +25,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## AI Gateway
 
+- [Prompt Templates and QoS Priority Flow](2026-10-13%20AI%20Gateway%20Prompt%20Templates%20and%20QoS%20Priority%20Flow/README.md) (2026-10-13)
 - [Observability Through One Control Plane](2026-10-06%20AI%20Gateway%20Observability%20Through%20One%20Control%20Plane/README.md) (2026-10-06)
 - [Multi-Gateway Unified AI Traffic Control Flow](2026-10-06%20AI%20Gateway%20Multi-Gateway%20Unified%20AI%20Traffic%20Control%20Flow/README.md) (2026-10-06)
 - [Token-Level Cost and Budget Governance Flow](2026-09-29%20AI%20Gateway%20Token-Level%20Cost%20and%20Budget%20Governance%20Flow/README.md) (2026-09-29)
