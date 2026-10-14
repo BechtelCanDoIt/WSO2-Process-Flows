@@ -36,6 +36,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## Agent ID
 
+- [Tool-Level Consent for MCP Agents](2026-10-14%20Agent%20ID%20Tool-Level%20Consent%20for%20MCP%20Agents/README.md) (2026-10-14)
 - [Risk-Metadata-Driven Agent Authorization](2026-10-07%20Agent%20ID%20Risk-Metadata-Driven%20Agent%20Authorization/README.md) (2026-10-07)
 - [Agent Audit Trail and Anomaly Detection Flow](2026-09-23%20Agent%20ID%20Agent%20Audit%20Trail%20and%20Anomaly%20Detection%20Flow/README.md) (2026-09-23)
 - [SCIM2 Agent Identity Lifecycle Provisioning](2026-09-16%20Agent%20ID%20SCIM2%20Agent%20Identity%20Lifecycle%20Provisioning/README.md) (2026-09-16)
