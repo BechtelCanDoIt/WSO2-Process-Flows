@@ -45,6 +45,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## Agent Building (WSO2 Integration Platform)
 
+- [Legacy Systems as Agent Tools via Connectors](2026-10-15%20WSO2%20Integration%20Platform%20Legacy%20Systems%20as%20Agent%20Tools%20via%20Connectors/README.md) (2026-10-15)
 - [Low-Code and Pro-Code Agent Parity](2026-10-08%20WSO2%20Integration%20Platform%20Low-Code%20and%20Pro-Code%20Agent%20Parity/README.md) (2026-10-08)
 - [Agent-Embedded Event-Driven Workflow Orchestration](2026-10-01%20WSO2%20Integration%20Platform%20Agent-Embedded%20Event-Driven%20Workflow%20Orchestration/README.md) (2026-10-01)
 - [File-Driven Integration Triggering Autonomous Agents](2026-09-24%20WSO2%20Integration%20Platform%20File-Driven%20Integration%20Triggering%20Autonomous%20Agents/README.md) (2026-09-24)
