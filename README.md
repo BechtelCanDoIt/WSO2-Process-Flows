@@ -55,6 +55,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## API Manager
 
+- [APIM Analytics: API Traffic Anomaly Detection and Alerting](2026-10-16%20APIM%20Analytics%20API%20Traffic%20Anomaly%20Detection%20and%20Alerting/README.md) (2026-10-16)
 - [API Manager: Contract-First Mock API Development Flow](2026-08-31%20API%20Manager%20Contract-First%20Mock%20API%20Development%20Flow/README.md) (2026-08-31)
 - [API Manager: Micro Gateway Sidecar Governance Flow](2026-08-24%20API%20Manager%20Micro%20Gateway%20Sidecar%20Governance%20Flow/README.md) (2026-08-24)
 - [API Manager: B2B Partner Portal Self-Service Onboarding Flow](2026-08-17%20API%20Manager%20B2B%20Partner%20Portal%20Self-Service%20Onboarding%20Flow/README.md) (2026-08-17)
