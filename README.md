@@ -108,6 +108,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## Open Banking
 
+- [Transaction Risk Analysis and SCA Exemption](2026-10-17%20Open%20Banking%20Transaction%20Risk%20Analysis%20and%20SCA%20Exemption/README.md) (2026-10-17)
 - [Strong Customer Authentication and Dynamic Consent Management Flow](2026-09-18%20Open%20Banking%20Strong%20Customer%20Authentication%20and%20Dynamic%20Consent%20Management%20Flow/README.md) (2026-09-18)
 - [TPP On-Boarding and eIDAS Certificate Validation Flow](2026-07-31%20Open%20Banking%20TPP%20On-Boarding%20and%20eIDAS%20Certificate%20Validation%20Flow/README.md) (2026-07-31)
 
