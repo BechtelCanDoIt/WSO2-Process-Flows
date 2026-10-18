@@ -119,6 +119,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## Asgardeo
 
+- [Passwordless Sign-In with Passkeys](2026-10-18%20Asgardeo%20Passwordless%20Sign-In%20with%20Passkeys/README.md) (2026-10-18)
 - [B2B Multi-Tenant Organization Onboarding Flow](2026-09-25%20Asgardeo%20B2B%20Multi-Tenant%20Organization%20Onboarding%20Flow/README.md) (2026-09-25)
 - [AI-Generated Adaptive Login Flow Builder](2026-08-07%20Asgardeo%20AI-Generated%20Adaptive%20Login%20Flow%20Builder/README.md) (2026-08-07)
 
