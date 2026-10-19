@@ -8,6 +8,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## Agent Manager
 
+- [Rogue Agent Suspension and Quarantine](2026-10-19%20Agent%20Manager%20Rogue%20Agent%20Suspension%20and%20Quarantine/README.md) (2026-10-19)
 - [Framework-Agnostic Agent Onboarding](2026-10-12%20Agent%20Manager%20Framework-Agnostic%20Agent%20Onboarding/README.md) (2026-10-12)
 - [One Control Plane for Multi-Runtime Agents](2026-10-05%20Agent%20Manager%20One%20Control%20Plane%20for%20Multi-Runtime%20Agents/README.md) (2026-10-05)
 - [Zero-Trust Runtime Lifecycle Sandbox to Production](2026-09-28%20Agent%20Manager%20Zero-Trust%20Runtime%20Lifecycle%20Sandbox%20to%20Production/README.md) (2026-09-28)
