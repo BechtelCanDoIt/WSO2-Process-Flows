@@ -4,7 +4,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 > These articles/patterns are AI generated. Double check validity in case I haven't yet.
 
-**68 flows so far.** Each link opens the article with its diagram.
+**69 flows so far.** Each link opens the article with its diagram.
 
 ## Agent Manager
 
@@ -105,6 +105,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## Integrator, MI (Micro Integrator) & Stream Processor
 
+- [Micro Integrator: Scatter-Gather Order Aggregation with Circuit Breaking](2026-10-23%20Micro%20Integrator%20Scatter-Gather%20Order%20Aggregation%20with%20Circuit%20Breaking/README.md) (2026-10-23)
 - [Micro Integrator: Store-and-Forward with Dead-Letter Replay](2026-10-02%20Micro%20Integrator%20Store-and-Forward%20with%20Dead-Letter%20Replay/README.md) (2026-10-02)
 - [StreamProcessor: Real-Time Event Stream Correlation for Fraud Anomaly Detection](2026-09-04%20StreamProcessor%20Real-Time%20Event%20Stream%20Correlation%20for%20Fraud%20Anomaly%20Detection/README.md) (2026-09-04)
 - [Enterprise Integrator: File-Driven Batch Integration with Guaranteed Delivery](2026-08-15%20Enterprise%20Integrator%20File-Driven%20Batch%20Integration%20with%20Guaranteed%20Delivery/README.md) (2026-08-15)
