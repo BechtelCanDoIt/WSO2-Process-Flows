@@ -120,6 +120,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## API Platform for Azure
 
+- [One Developer Portal for Azure APIs](2026-10-31%20API%20Platform%20for%20Azure%20One%20Developer%20Portal%20for%20Azure%20APIs/README.md) (2026-10-31)
 - [Shadow API Discovery and Governance](2026-10-10%20API%20Platform%20for%20Azure%20Shadow%20API%20Discovery%20and%20Governance/README.md) (2026-10-10)
 - [Zero-Migration Gateway Federation Flow](2026-08-09%20API%20Platform%20for%20Azure%20Zero-Migration%20Gateway%20Federation%20Flow/README.md) (2026-08-09)
 
