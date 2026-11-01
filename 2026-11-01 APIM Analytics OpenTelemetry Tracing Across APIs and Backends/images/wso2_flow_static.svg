@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1165" viewBox="0 0 1800 1165" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="ar" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M1,1 L10,6 L1,11 Z" fill="#FF7A1A"/></marker><radialGradient id="g" cx="50%" cy="0%" r="80%"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0.14"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs>
+<rect width="1800" height="1165" fill="#000"/><rect width="1800" height="1165" fill="url(#g)"/>
+<text x="80" y="95" font-size="22" font-weight="700" letter-spacing="5" fill="#FF7A1A">WSO2 APIM ANALYTICS</text>
+<text x="80" y="160" font-size="52" font-weight="700" fill="#FFFFFF">OpenTelemetry Tracing Across APIs and Backends</text>
+<text x="80" y="204" font-size="24" fill="#A8A8B0">Find the slow hop behind an API error spike in minutes.</text>
+<rect x="80" y="226" width="120" height="4" rx="2" fill="#FF7A1A"/>
+<text x="80" y="292" font-size="16" font-weight="700" letter-spacing="3" fill="#A8A8B0">CALLERS</text>
+<rect x="80" y="312" width="240" height="64" rx="12" fill="#1C1C1F" stroke="#3A3A40" stroke-width="1.5"/>
+<text x="200.0" y="352" font-size="21" font-weight="600" fill="#FFFFFF" text-anchor="middle">Partner Apps</text>
+<rect x="350" y="312" width="240" height="64" rx="12" fill="#1C1C1F" stroke="#3A3A40" stroke-width="1.5"/>
+<text x="470.0" y="352" font-size="21" font-weight="600" fill="#FFFFFF" text-anchor="middle">Mobile Apps</text>
+<rect x="620" y="312" width="240" height="64" rx="12" fill="#1C1C1F" stroke="#3A3A40" stroke-width="1.5"/>
+<text x="740.0" y="352" font-size="21" font-weight="600" fill="#FFFFFF" text-anchor="middle">Developers</text>
+<path d="M876,344 L1010,344" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<rect x="1030" y="302" width="690" height="84" rx="14" fill="#FF7A1A"/>
+<text x="1375" y="337" font-size="16" font-weight="700" letter-spacing="3" fill="#000" text-anchor="middle">GATEWAY + ANALYTICS</text>
+<text x="1375" y="370" font-size="26" font-weight="700" fill="#000" text-anchor="middle">WSO2 API Manager</text>
+<path d="M450.0,597.5 L499.3333333333333,597.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<path d="M873.3333333333333,597.5 L922.6666666666666,597.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<path d="M1296.6666666666665,597.5 L1346.0,597.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<path d="M1535.0,725 L1535.0,762.5 L265.0,762.5 L265.0,800" fill="none" stroke="#FF7A1A" stroke-width="3" marker-end="url(#ar)"/>
+<path d="M450.0,927.5 L499.3333333333333,927.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<path d="M873.3333333333333,927.5 L922.6666666666666,927.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<path d="M1296.6666666666665,927.5 L1346.0,927.5" stroke="#FF7A1A" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<rect x="80.0" y="470" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="80.0" y="492" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="108.0" y="528" font-size="40" font-weight="800" fill="#FF7A1A">01</text>
+<rect x="341.5" y="500" width="80.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="381.75" y="521" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">INPUT</text>
+<text x="108.0" y="588" font-size="29" font-weight="700" fill="#FFFFFF">Client Calls API</text>
+<text x="108.0" y="628" font-size="21" fill="#D4D4DA">Apps and developers call</text>
+<text x="108.0" y="657" font-size="21" fill="#D4D4DA">managed APIs through the</text>
+<text x="108.0" y="686" font-size="21" fill="#D4D4DA">gateway.</text>
+<rect x="503.3333333333333" y="470" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="503.3333333333333" y="492" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="531.3333333333333" y="528" font-size="40" font-weight="800" fill="#FF7A1A">02</text>
+<rect x="743.8333333333333" y="500" width="101.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="794.5833333333333" y="521" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">GATEWAY</text>
+<text x="531.3333333333333" y="588" font-size="29" font-weight="700" fill="#FFFFFF">Gateway Starts Trace</text>
+<text x="531.3333333333333" y="628" font-size="21" fill="#D4D4DA">The gateway opens a span and</text>
+<text x="531.3333333333333" y="657" font-size="21" fill="#D4D4DA">stamps a trace ID on the call.</text>
+<rect x="926.6666666666666" y="470" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="926.6666666666666" y="492" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="954.6666666666666" y="528" font-size="40" font-weight="800" fill="#FF7A1A">03</text>
+<rect x="1146.1666666666665" y="500" width="122.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="1207.4166666666665" y="521" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">TRANSFORM</text>
+<text x="954.6666666666666" y="588" font-size="29" font-weight="700" fill="#FFFFFF">Propagate Trace IDs</text>
+<text x="954.6666666666666" y="628" font-size="21" fill="#D4D4DA">Trace headers follow the</text>
+<text x="954.6666666666666" y="657" font-size="21" fill="#D4D4DA">request into every backend</text>
+<text x="954.6666666666666" y="686" font-size="21" fill="#D4D4DA">service.</text>
+<rect x="1350.0" y="470" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="1350.0" y="492" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="1378.0" y="528" font-size="40" font-weight="800" fill="#FF7A1A">04</text>
+<rect x="1569.5" y="500" width="122.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="1630.75" y="521" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">INTEGRATE</text>
+<text x="1378.0" y="588" font-size="29" font-weight="700" fill="#FFFFFF">Backends Emit Spans</text>
+<text x="1378.0" y="628" font-size="21" fill="#D4D4DA">Services report their own spans</text>
+<text x="1378.0" y="657" font-size="21" fill="#D4D4DA">using OpenTelemetry.</text>
+<rect x="80.0" y="800" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="80.0" y="822" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="108.0" y="858" font-size="40" font-weight="800" fill="#FF7A1A">05</text>
+<rect x="320.5" y="830" width="101.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="371.25" y="851" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">OBSERVE</text>
+<text x="108.0" y="918" font-size="29" font-weight="700" fill="#FFFFFF">Capture API Events</text>
+<text x="108.0" y="958" font-size="21" fill="#D4D4DA">Traffic, latency and errors</text>
+<text x="108.0" y="987" font-size="21" fill="#D4D4DA">flow into Moesif-powered</text>
+<text x="108.0" y="1016" font-size="21" fill="#D4D4DA">analytics.</text>
+<rect x="503.3333333333333" y="800" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="503.3333333333333" y="822" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="531.3333333333333" y="858" font-size="40" font-weight="800" fill="#FF7A1A">06</text>
+<rect x="722.8333333333333" y="830" width="122.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="784.0833333333333" y="851" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">TRANSFORM</text>
+<text x="531.3333333333333" y="918" font-size="29" font-weight="700" fill="#FFFFFF">Join Traces to Usage</text>
+<text x="531.3333333333333" y="958" font-size="21" fill="#D4D4DA">Link each trace to the</text>
+<text x="531.3333333333333" y="987" font-size="21" fill="#D4D4DA">application and developer</text>
+<text x="531.3333333333333" y="1016" font-size="21" fill="#D4D4DA">behind it.</text>
+<rect x="926.6666666666666" y="800" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="926.6666666666666" y="822" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="954.6666666666666" y="858" font-size="40" font-weight="800" fill="#FF7A1A">07</text>
+<rect x="1167.1666666666665" y="830" width="101.5" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="1217.9166666666665" y="851" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">OBSERVE</text>
+<text x="954.6666666666666" y="918" font-size="29" font-weight="700" fill="#FFFFFF">Pinpoint the Slow Hop</text>
+<text x="954.6666666666666" y="958" font-size="21" fill="#D4D4DA">Drill from an error spike down</text>
+<text x="954.6666666666666" y="987" font-size="21" fill="#D4D4DA">to the span that caused it.</text>
+<rect x="1350.0" y="800" width="370" height="255" rx="18" fill="#26262A" stroke="#3A3A40" stroke-width="1.5"/>
+<rect x="1350.0" y="822" width="5" height="44" rx="2.5" fill="#FF7A1A"/>
+<text x="1378.0" y="858" font-size="40" font-weight="800" fill="#FF7A1A">08</text>
+<rect x="1601.0" y="830" width="91.0" height="30" rx="15" fill="none" stroke="#FF7A1A" stroke-width="1.5"/>
+<text x="1646.5" y="851" font-size="14" font-weight="700" letter-spacing="1.5" fill="#FF7A1A" text-anchor="middle">OUTPUT</text>
+<text x="1378.0" y="918" font-size="29" font-weight="700" fill="#FFFFFF">Alert the Owner</text>
+<text x="1378.0" y="958" font-size="21" fill="#D4D4DA">Send anomalies to Slack or</text>
+<text x="1378.0" y="987" font-size="21" fill="#D4D4DA">PagerDuty with a trace link.</text>
+<line x1="80" y1="1091" x2="1720" y2="1091" stroke="#2A2A2E"/>
+<text x="80" y="1127" font-size="17" fill="#A8A8B0">Distributed Tracing  ·  Trace Context Propagation  ·  Correlation ID</text>
+<text x="1720" y="1127" font-size="17" fill="#A8A8B0" text-anchor="end">wso2.com/api-platform/api-manager  ·  Scott Bechtel</text>
+</svg>
