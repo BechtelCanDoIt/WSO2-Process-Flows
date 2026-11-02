@@ -8,6 +8,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## Agent Manager
 
+- [Shadow Agent Discovery and Federated Inventory](2026-11-02%20Agent%20Manager%20Shadow%20Agent%20Discovery%20and%20Federated%20Inventory/README.md) (2026-11-02)
 - [Rogue Agent Suspension and Quarantine](2026-10-19%20Agent%20Manager%20Rogue%20Agent%20Suspension%20and%20Quarantine/README.md) (2026-10-19)
 - [Framework-Agnostic Agent Onboarding](2026-10-12%20Agent%20Manager%20Framework-Agnostic%20Agent%20Onboarding/README.md) (2026-10-12)
 - [One Control Plane for Multi-Runtime Agents](2026-10-05%20Agent%20Manager%20One%20Control%20Plane%20for%20Multi-Runtime%20Agents/README.md) (2026-10-05)
