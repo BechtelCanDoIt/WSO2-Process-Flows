@@ -27,6 +27,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## AI Gateway
 
+- [Multi-Provider LLM Failover and Load Balancing Flow](2026-11-03%20AI%20Gateway%20Multi-Provider%20LLM%20Failover%20and%20Load%20Balancing%20Flow/README.md) (2026-11-03)
 - [Inline PII Masking and Output Enforcement Flow](2026-10-20%20AI%20Gateway%20Inline%20PII%20Masking%20and%20Output%20Enforcement%20Flow/README.md) (2026-10-20)
 - [Prompt Templates and QoS Priority Flow](2026-10-13%20AI%20Gateway%20Prompt%20Templates%20and%20QoS%20Priority%20Flow/README.md) (2026-10-13)
 - [Observability Through One Control Plane](2026-10-06%20AI%20Gateway%20Observability%20Through%20One%20Control%20Plane/README.md) (2026-10-06)
